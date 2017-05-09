@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MotionLock">
+
+        <attr name="small_circle_color" format="color"/>
+        <attr name="large_circle_color" format="color"/>
+        <attr name="line_color" format="color"/>
+
+
+    </declare-styleable>
+
+</resources>
